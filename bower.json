@@ -1,0 +1,17 @@
+{
+    "name": "sairacondensed-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Omnibus-Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/sairacondensed-bower.git"
+    },
+    "description": "Saira Condensed font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
